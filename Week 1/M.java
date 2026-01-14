@@ -1,8 +1,12 @@
-class HelloWorld {
-    public static void main(String[] args) {
-        int user_temp = 
-        int fahrenheittemp = (user_temp * 9/5 + 32);
-        System.out.println(fahrenheittemp);
-
-    }
+class practice{
+public static void main(String[] args) {
+    
+System.out.println("Hi");
+int x = 7;
+while (x>4) {
+    System.out.println(x+4);
+    x=x-1;
 }
+
+
+}}
