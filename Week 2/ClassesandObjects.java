@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/**import java.util.Scanner;
 
 class OddSum
 {
@@ -20,10 +20,10 @@ class OddSum
    }
 }
 
-/**
+
    Counts the number of digits with value 7 in the decimal 
    representation of the integer n
-*/
+
 class CountSevens
 {
    public static void main(String[] args)
@@ -39,4 +39,4 @@ class CountSevens
       }
       System.out.println(count);
    }
-}
+}*/
